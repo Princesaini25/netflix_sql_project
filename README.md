@@ -2,13 +2,13 @@
 
 ![Netflix logo](https://github.com/Princesaini25/netflix_sql_project/blob/main/logo.png)
 
-## 📌 Project Overview
+## Project Overview
 
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze the distribution of content types (movies vs TV shows).
 - Identify the most common ratings for movies and TV shows.
@@ -17,7 +17,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ---
 
-## 📊 Findings
+## Findings
 
 1. **Content Distribution** — Netflix has significantly more Movies (6,131) than TV Shows (2,676), making up ~69.6% of total content.
 2. **Common Ratings** — `TV-MA` is the most frequent rating for TV Shows, while `TV-14` dominates Movies — indicating Netflix primarily targets mature audiences.
@@ -30,7 +30,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ---
 
-## 🏁 Conclusions
+## Conclusions
 
 This analysis reveals several key patterns in Netflix's content strategy:
 
